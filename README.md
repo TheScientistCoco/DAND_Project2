@@ -1,2 +1,2 @@
 # DAND_Project2
-Investigate a Dataset
+Udacity Data Analyst Nanodegree Project 2: Investigate a Dataset
